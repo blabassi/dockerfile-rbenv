@@ -1,4 +1,4 @@
-FROM base
+FROM dockerfile/ubuntu
 
 MAINTAINER blabassi "https://github.com/blabassi"
 
