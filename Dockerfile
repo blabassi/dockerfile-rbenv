@@ -1,6 +1,6 @@
 FROM base
 
-MAINTAINER tcnksm "https://github.com/tcnksm"
+MAINTAINER blabassi "https://github.com/blabassi"
 
 # Install packages for building ruby
 RUN apt-get update
